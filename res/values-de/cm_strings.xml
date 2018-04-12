@@ -111,4 +111,7 @@
   <string name="smart_mute_summary">Eingehende Anrufe durch Umdrehen des Geräts stummschalten</string>
   <string name="smart_dialer_title">Schnellanruf</string>
   <string name="smart_dialer_summary">Gewählte Nummer automatisch anrufen, wenn Sie Ihr Gerät zum Ohr führen</string>
+  <!-- Disclaimer -->
+  <string name="lookup_disclaimer">Die Nummernsuchen führen Anfragen über ein gesichertes Protokoll (https) zu Servern entprechender Anbieter durch. Die Anfrage kann die Telefonnummer des anderen Teilnehmers oder dessen Suchanfrage beinhalten</string>
+
 </resources>
